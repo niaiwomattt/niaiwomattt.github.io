@@ -1,0 +1,3 @@
+# nginx rewrite rule
+error_page 404 /dist/index.html
+# end nginx rewrite rule
