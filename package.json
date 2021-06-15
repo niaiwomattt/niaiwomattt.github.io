@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "vuepress": "^1.8.2",
+    "vuepress-theme-api": "^1.0.0",
+    "vuepress-theme-meteorlxy": "^1.9.0",
+    "vuepress-theme-resume": "^1.0.1",
+    "vuepress-theme-vdoing": "^1.8.3"
+  },
+  "scripts": {
+    "big:dev": "vuepress dev vdoing",
+    "big:build": "vuepress build vdoing"
+  }
+}
