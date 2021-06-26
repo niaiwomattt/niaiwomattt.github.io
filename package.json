@@ -1,6 +1,9 @@
 {
   "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.8.2",
     "vuepress": "^1.8.2",
+    "vuepress-plugin-comment": "^0.7.3",
+    "vuepress-plugin-flexsearch": "^0.2.0",
     "vuepress-theme-api": "^1.0.0",
     "vuepress-theme-meteorlxy": "^1.9.0",
     "vuepress-theme-resume": "^1.0.1",
