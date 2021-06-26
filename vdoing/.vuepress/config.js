@@ -18,7 +18,6 @@ module.exports = {
   //  temp: 'docs',
   dest: 'docs',
   plugins: [
-    'flexsearch',
     '@vuepress/google-analytics',
     {
       'ga': 'G-QZKQ19M0NV' //替换成自己实际申请的ID
